@@ -1,0 +1,76 @@
+TASK 4 – PROFESSIONAL EMAILS
+CSE0001 Digital Literacy | VIT Bhopal University
+================================================
+
+
+EMAIL 1 — Assignment Extension Request
+---------------------------------------
+
+To: professor.name@vitbhopal.ac.in
+Subject: Request for Assignment Submission Extension – [Course Name] – [Your Name/Reg No.]
+
+Dear Professor [Last Name],
+
+I hope this message finds you well. I am writing to respectfully request a short extension
+for the upcoming assignment submission in [Course Name], originally due on [Date].
+
+Over the past few days I have been dealing with [brief reason, e.g. a medical issue /
+unavailability of reference materials / overlapping examination schedule], which has
+significantly limited my ability to complete the work to the standard I aim for.
+
+I have already made considerable progress on the assignment and am confident I can
+submit a complete and quality submission by [Proposed New Date — 2-3 days later].
+I sincerely apologise for any inconvenience caused and assure you this will not affect
+the quality of my work.
+
+I would be grateful if you could kindly consider my request. Please let me know if you
+need any supporting documentation.
+
+Thank you for your time and understanding.
+
+Regards,
+[Your Full Name]
+[Registration Number]
+[Branch] | First Year B.Tech
+VIT Bhopal University
+
+
+================================================
+
+
+EMAIL 2 — Internship Interest Email
+---------------------------------------
+
+To: hr@companyname.com
+Subject: Application for Summer Internship Opportunity – [Your Name] – VIT Bhopal
+
+Dear [Hiring Manager's Name / "Hiring Team"],
+
+I am [Your Name], a first-year B.Tech student in [Branch] at VIT Bhopal University.
+I am writing to express my keen interest in a summer internship opportunity at
+[Company Name].
+
+I have been following [Company Name]'s work in [relevant field, e.g. software
+development / data analytics / embedded systems] with great interest and believe that
+an internship with your organisation would be an excellent opportunity for me to apply
+my academic knowledge in a real-world setting while contributing meaningfully to your team.
+
+Currently I am developing skills in [mention 2-3 skills e.g. Python programming,
+data structures, web development] and am eager to learn from experienced professionals
+in the industry. I am a quick learner, highly motivated, and comfortable working in a
+collaborative environment.
+
+I have attached my resume for your reference. I would welcome the opportunity to discuss
+how I can contribute to your team during the summer break (approximately [dates]).
+
+Thank you for considering my application. I look forward to hearing from you.
+
+Yours sincerely,
+[Your Full Name]
+[Registration Number]
+[Branch] | First Year B.Tech
+VIT Bhopal University
+[Phone Number]
+[College Email]
+
+================================================
